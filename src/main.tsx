@@ -6,7 +6,6 @@ import Index from './components/Index';
 import About from './components/About';
 import { Provider } from 'react-redux';
 import { Router, Route, History, IndexRoute, browserHistory  } from 'react-router';
-import * as history  from 'history';
 import storeConfig from './store';
 
 const store: Redux.Store = storeConfig;
