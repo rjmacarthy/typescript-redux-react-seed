@@ -1,5 +1,5 @@
 
-# React Redux Typescript Bitcoin Prices 
+# A React, Redux and Typescript Seed
 
 A React, Redux and Typescript seed application.
 
